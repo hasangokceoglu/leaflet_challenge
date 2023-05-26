@@ -13,5 +13,6 @@ Past day all earthquakes data used in this study.
 
 file:///C:/Users/hasan/Downloads/Leaflet-Challenge-main/Leaflet-Challenge-main/index.html
 
-image.png
+![Example Screenshot of map](https://github.com/hasangokceoglu/leaflet_challenge/assets/118228120/ecb5321a-9c9a-4ecb-9955-a5288debd3a2)
+
 The USGS provides earthquake data in a number of different formats, updated every 5 minutes.
